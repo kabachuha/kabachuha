@@ -1,4 +1,4 @@
-- 🚢 Currently interning at Huawei's NLP team 📚
+- 🚢 Software Engineer at Huawei's AI Foundation and Algorithm lab 📚
 - 🔭 Have a bachelor degree in 🤓 Applied Math and Physics ⚛️
 - 🎓 Currently studying for a masters in 🤓 Applied Math and Physics ⚛️
 - 🌱 Participate in renewable energy and fusion power projects as a part of my studies ⚡
