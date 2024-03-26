@@ -13,6 +13,7 @@
     <li>🎓 Currently studying for a masters</li>
     <li>🌱 Participate in renewable energy projects ⚡</li>
     <li>👷 ML and AI projects: Diffusion models and LLMs. 🤗</li>
+    <li>🪄 <a href="https://arxiv.org/search/cs?searchtype=author&query=Khrapov,+A"> My arXiv papers</a> (more coming soon) 👁️</li>
     <li>🐍 Skills in Python, C/C++ and Java 🍵</li>
     <li>✏️ Love traditional and AI-assisted art 🤖</li>
     <li>🚀 Looking for hardware help on training multimodal models 🤔</li>
