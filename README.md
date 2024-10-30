@@ -8,17 +8,15 @@
 <td>
 <div>
   <ul>
-    <li>🚢 Software/ML Engineer at Huawei's AI Foundation and Algorithm lab 📚</li>
+    <li>🚢 Software/ML Engineer at Huawei's "Hoah's Ark lab" 📚</li>
     <li>🔭 Bachelor in 🤓 Applied Math and Physics ⚛️</li>
     <li>🎓 Currently studying for a masters</li>
-    <li>🌱 Participate in renewable energy projects ⚡</li>
-    <li>👷 ML and AI projects: Diffusion models and LLMs. 🤗</li>
-    <li>🪄 <a href="https://arxiv.org/search/cs?searchtype=author&query=Khrapov,+A"> My arXiv papers</a> (more coming soon) 👁️</li>
-    <li>🐍 Skills in Python, C/C++ and Java 🍵</li>
-    <li>✏️ Love traditional and AI-assisted art 🤖</li>
-    <li>🚀 Looking for hardware help on training multimodal models 🤔</li>
-    <li>🐧 <a href="https://etherscan.io/address/0x4c92637b8d3587383d50812f64a0dbd2a5426e81">To donate and support my Open Source projects</a> 🧡</li>
-    <li>💬 To contact me, use Discord, @kabachuha. Pronouns: he/him</li>
+    <li>🌱 Participating in renewable energy (fusion) projects ⚡</li>
+    <li>👷 ML and AI projects: Diffusion and AR-based models 🤗</li>
+    <li>🪄 <a href="https://arxiv.org/search/cs?searchtype=author&query=Khrapov,+A"> My arXiv papers</a>; <a href="https://www.isca-archive.org/interspeech_2024/sadekova24_interspeech.pdf"> PitchFlow (InterSpeech 2024)</a> </li>
+    <li>🐍 Skills in Python, C/C++, Lua and Java 🍵</li>
+    <li>✏️ Love making digital and AI-assisted art projects 🤖</li>
+    <li>💬 To contact me, send emails. Pronouns: he/him</li>
   </ul>
 </div>
 </td>
