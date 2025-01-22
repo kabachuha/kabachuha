@@ -12,7 +12,7 @@
     <li>🔭 Bachelor in 🤓 Applied Math and Physics ⚛️</li>
     <li>🎓 Currently studying for a masters</li>
     <li>🌱 Participating in fusion projects at school, doing Computer Vision ⚡</li>
-    <li>👷 ML and AI projects: Diffusion and AR-based models 🤗. </li>
+    <li>👷 ML and AI projects: Diffusion and FM-based models 🤗. </li>
     <li>⭐ My papers are accepted at A and A* level conferences: </li>
     <li>🪄 <a href="https://www.isca-archive.org/interspeech_2024/sadekova24_interspeech.pdf"> [InterSpeech 2024] PitchFlow</a>; </li>
     <li>🧨 <a href="https://openreview.net/forum?id=XxCgeWSTNp">[ICLR 2025 Accepted] Improved Sampling Algorithms for Lévy-Itô Diffusion Models</a> </li>
