@@ -13,7 +13,8 @@
     <li>🎓 Currently studying for a masters</li>
     <li>🌱 Participating in renewable energy (fusion) projects ⚡</li>
     <li>👷 ML and AI projects: Diffusion and AR-based models 🤗</li>
-    <li>🪄 <a href="https://arxiv.org/search/cs?searchtype=author&query=Khrapov,+A"> My arXiv papers</a>; <a href="https://www.isca-archive.org/interspeech_2024/sadekova24_interspeech.pdf"> PitchFlow (InterSpeech 2024)</a> </li>
+    <li>🪄 <a href="https://arxiv.org/search/cs?searchtype=author&query=Khrapov,+A"> My arXiv papers</a>; <a href="https://www.isca-archive.org/interspeech_2024/sadekova24_interspeech.pdf"> [InterSpeech 2024] PitchFlow</a>; </li>
+    <li>🧨<a href="https://openreview.net/forum?id=XxCgeWSTNp">[ICLR 2025 Accepted] Improved Sampling Algorithms for Lévy-Itô Diffusion Models</a> </li>
     <li>🐍 Skills in Python, C/C++, Lua and Java 🍵</li>
     <li>✏️ Love making digital and AI-assisted art projects 🤖</li>
     <li>💬 To contact me, send emails. Pronouns: he/him</li>
