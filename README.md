@@ -11,7 +11,7 @@
     <li>🚢 Software/ML Engineer at Huawei's "Hoah's Ark lab" 📚</li>
     <li>🔭 Bachelor in 🤓 Applied Math and Physics ⚛️</li>
     <li>🎓 Currently studying for a masters</li>
-    <li>🌱 Participating in renewable energy (fusion) projects ⚡</li>
+    <li>🌱 Participating in fusion projects at school ⚡</li>
     <li>👷 ML and AI projects: Diffusion and AR-based models 🤗</li>
     <li>🪄 <a href="https://arxiv.org/search/cs?searchtype=author&query=Khrapov,+A"> My arXiv papers</a>; <a href="https://www.isca-archive.org/interspeech_2024/sadekova24_interspeech.pdf"> [InterSpeech 2024] PitchFlow</a>; </li>
     <li>🧨<a href="https://openreview.net/forum?id=XxCgeWSTNp">[ICLR 2025 Accepted] Improved Sampling Algorithms for Lévy-Itô Diffusion Models</a> </li>
