@@ -14,6 +14,7 @@
     <li> My papers are accepted at A and A* level conferences: ⭐</li>
     <li> <a href="https://www.isca-archive.org/interspeech_2024/sadekova24_interspeech.pdf"> [InterSpeech 2024] PitchFlow</a>; 🪄 </li>
     <li> <a href="https://openreview.net/forum?id=XxCgeWSTNp">[ICLR 2025] Improved Sampling Algorithms for Lévy-Itô Diffusion Models</a>. 🧨</li>
+    <li> Core contributor of <a href="https://arxiv.org/abs/2512.21580">Gamayun</a>🪽, a cost efficient LLM fully pretrained on Ascend NPUs. ✍️</li>
     <li> <a href="https://scholar.google.com/citations?user=_kUfYFUAAAAJ&hl=ru"> My full Google Scholar profile.</a> 🚀</li>
     <li> Skills in Python, C/C++, Lua and Java 🐍🍵</li>
     <li> Love making digital, traditional and AI-assisted art projects 🤖✏️ </li>
