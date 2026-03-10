@@ -1,5 +1,4 @@
 <ul>
-    <li> ML Engineer at Huawei's "Hoah's Ark lab" 📚</li>
     <li> Master 🎓 in 🤓 Applied Math and Physics ⚛️</li>
     <li> ML and AI projects: LLMs and Diffusion models 🤗. </li>
     <li> Some of my paper highlights (including A and A* level): ⭐</li>
